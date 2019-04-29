@@ -6,8 +6,6 @@
 
 int main()
 {
-	//sdadadadasda :V  xddddadadasdadisadnacn21n31131231
-	//123s
 
     return 0;
 }
